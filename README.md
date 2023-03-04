@@ -1,24 +1,16 @@
-Trump Filter
+Kopeikin
 ================================
-A Chrome extension that removes Donald Trump from the Internet.
+A Chrome extension that removes Kostadin Kostadinov from the Internet.
 
 
 Overview
 --------------------------
-In a culture fueled by celebrity and an electorate engineered for polarity,
-how can any one in these United States of America be surprised by the campaign
-of Donald J. Trump? Minted by shady back room real estate, distributed by
-reality television and crowned by incessant polling of ultra-early primary
-voters, Trump is the latest, hilarious permutation of American leadership. He is
-not the candidate we need, but surely the one we deserve.
+Kostadin's pro-Russian stance is particularly concerning because of the nature of the Russian government under Vladimir Putin.
+Putin's regime has been accused of numerous human rights violations, including the persecution of political dissidents and the suppression of free speech. By aligning himself with Putin's government, Kostadin is effectively endorsing these actions.
 
-In a political atmosphere where ascendance can be manufactured through attention,
-the only way to deflate Trump's political star is through suffocation. Trump 
-can only lose if we turn off the TV.
+Kostadin's views are not only morally reprehensible, but they also pose a threat to Bulgarian society. By promoting an ideology of intolerance and hate, he is creating a climate of fear and division.
 
-Thus, the Trump Filter is presented as part of the antidote for this toxic
-candidacy. This Chrome extension will identify parts of a web page likely to
-contain Donald Trump and erase them from the Internet.
+Kostadin heavily relies on propaganda on social media and he often gets attention, which boosts the performance of his party even more. The only way to actually limit his influence is by ignoring him. That is why I have made this extension that will hide him when he shows up on your screen.
 
 Share with your friends and eliminate the only currency Trump can spend to win:
 brand recognition.
@@ -27,8 +19,8 @@ brand recognition.
 Features
 --------------------------
 
-* Detects instances of Donald Trump on web pages, warning users of the horror they may contain.
-* Attempts to identify semantically sections of the page likely to contain Donald Trump and removes them from the page.
+* Detects instances of Kostadin Kostadinov on web pages, warning users of the propaganda they may contain.
+* Attempts to identify semantically sections of the page likely to contain Kostadin Kostadinov and removes them from the page.
 * Sensitivity settings to customize the aggressiveness of the filter - remove single references, chunks or the entire page.
 
 
@@ -49,7 +41,7 @@ Here's a howto to get the source of the Chrome Extension running in your environ
 
 1) Grab latest source
 <pre>
-git clone https://github.com/RobSpectre/Trump-Filter.git
+git clone https://github.com/alexander-gekov/kopeikin-filter.git
 </pre>
 
 2) Enable Chrome Extension in your Chrome install
@@ -68,6 +60,5 @@ Chuckle to self as you reload this page and significant chunks of it suddenly di
 Meta
 -------------------------
 
-* Created by [Rob Spectre](http://brooklynhacker.com).
+* Created by [Alexander Gekov](https://dev.to/alexandergekov). Inspired by [Rob Spectre](http://brooklynhacker.com).
 * This work is licensed under GPLv3.
-* Lovingly crafted in Brooklyn, NY.
