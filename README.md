@@ -6,14 +6,11 @@ A Chrome extension that removes Kostadin Kostadinov from the Internet.
 Overview
 --------------------------
 Kostadin's pro-Russian stance is particularly concerning because of the nature of the Russian government under Vladimir Putin.
-Putin's regime has been accused of numerous human rights violations, including the persecution of political dissidents and the suppression of free speech. By aligning himself with Putin's government, Kostadin is effectively endorsing these actions.
+Putin's regime has been accused of numerous human rights violations, including the persecution of political dissidents and the suppression of free speech. By aligning himself with Putin's government, Kostadinov is effectively endorsing these actions.
 
-Kostadin's views are not only morally reprehensible, but they also pose a threat to Bulgarian society. By promoting an ideology of intolerance and hate, he is creating a climate of fear and division.
+Kostadinov's views are not only morally reprehensible, but they also pose a threat to Bulgarian society. By promoting an ideology of intolerance and hate, he is creating a climate of fear and division.
 
-Kostadin heavily relies on propaganda on social media and he often gets attention, which boosts the performance of his party even more. The only way to actually limit his influence is by ignoring him. That is why I have made this extension that will hide him when he shows up on your screen.
-
-Share with your friends and eliminate the only currency Trump can spend to win:
-brand recognition.
+Kostadinov heavily relies on propaganda on social media and he often gets attention, which boosts the performance of his party even more. The only way to actually limit his influence is by ignoring him. That is why I have made this extension that will hide him when he shows up on your screen.
 
 
 Features
@@ -35,7 +32,6 @@ Then surf the web, comforted by the protection you are now afforded.
 
 Installation (for Developers)
 -------------------------
-Want to hack on the Trump Filter?  Sweet!
 
 Here's a howto to get the source of the Chrome Extension running in your environment.
 
@@ -50,7 +46,7 @@ Open Chrome.
 Navigate to Settings... Tools... Extensions.
 Click + on "Developer mode"
 Click "Load unpacked extensions..."
-Navigate to directory you installed Trump Filter and click Open.
+Navigate to directory you installed Kopeikin Remover and click Open.
 Chuckle to self as you reload this page and significant chunks of it suddenly disappear.
 </pre>
 
