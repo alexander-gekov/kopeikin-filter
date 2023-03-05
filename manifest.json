@@ -1,12 +1,12 @@
 {
   "manifest_version": 2,
-  "name": "Trump Filter",
+  "name": "Kopeikin Remover",
   "version": "1.1.2",
-  "description": "Remove Donald Trump from the Internet.",
+  "description": "Remove Kostadin Kostadinov from the Internet.",
   "page_action" :
   {
-    "default_icon" : "images/icon-19x19.png",
-    "default_title" : "Warning: Trump is on this page!"
+    "default_icon" : "images/48.png",
+    "default_title" : "Warning: Kopeika is on this page!"
   },
   "permissions": [
     "storage"
@@ -18,21 +18,20 @@
         "https://*/*"
       ],
       "exclude_globs": [
-        "*://*trumpfilter.com*", 
         "*://*github.com*"
       ],
-      "js": ["js/jquery-3.1.1.min.js", "js/filter.js"],
+      "js": ["js/filter.js"],
       "run_at": "document_idle",
       "all_frames": false
     }
   ],
   "icons" : {
-  	"16": "images/icon-16x16.png",
-    "19": "images/icon-19x19.png",
-    "48": "images/icon-48x48.png",
-    "128": "images/icon-128x128.png",
-    "130": "images/icon-130x130.png",
-    "550": "images/icon-550x550.png"
+  	"16": "images/16.png",
+    "19": "images/20.png",
+    "48": "images/48.png",
+    "128": "images/128.png",
+    "130": "images/256.png",
+    "550": "images/512.png"
   },
   "background": {
     "persistent": false,

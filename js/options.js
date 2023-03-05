@@ -19,7 +19,7 @@ function getOptions(callback) {
     pages: 0
   }, function(items) {
     document.getElementById('selectedFilter').value = items.filter;
-    document.getElementById('trumpcount').textContent = items.trumps;
+    document.getElementById('kopeiki').textContent = items.kopeiki;
     document.getElementById('pagecount').textContent = items.pages;
     callback(items.filter);
     return items.filter;
