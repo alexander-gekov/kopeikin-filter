@@ -1,3 +1,5 @@
+![logo](/images/256.png)
+
 Kopeikin Remover
 ================================
 A Chrome extension that removes Kostadin Kostadinov from the Internet.
