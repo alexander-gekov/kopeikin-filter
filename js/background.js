@@ -1,7 +1,7 @@
 function onMessage(request, sender, sendResponse) {
   if (request.method == "saveStats") { 
-    console.log("Storing stats...");
-    console.log ("Adding " + request.kopeiki + " Trumps to stats.");
+    console.log("Запазване на статистиката...");
+    console.log ("Добавяне " + request.kopeiki + " копейки към статистиката.");
     chrome.storage.sync.get({
       kopeiki: 0,
       pages: 0
@@ -17,12 +17,10 @@ function onMessage(request, sender, sendResponse) {
     console.log("Putting badge on address bar.");
     chrome.pageAction.show(sender.tab.id);
 
-    // Log event with Google Analytics
-    console.log("Logging Filter event...");
     chrome.storage.sync.get({
       filter: 'mild'
     }, function(items) {
-      console.log("Filtering on " + items.filter + " setting.");
+      console.log("Филтриране на " + items.filter + " настройка.");
     });
     sendResponse({});
   }
